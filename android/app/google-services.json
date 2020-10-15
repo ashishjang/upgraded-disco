@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "720049111937",
+    "firebase_url": "https://youchat-2c8d5.firebaseio.com",
+    "project_id": "youchat-2c8d5",
+    "storage_bucket": "youchat-2c8d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720049111937:android:844ac400ddf2cdc21d5e80",
+        "android_client_info": {
+          "package_name": "com.you.you_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720049111937-q72ke8q3f2gpvinvjne484qpma05m0bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGzlg4vo-1W41_M--Ygg-MT4QOHJeEFbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720049111937-q72ke8q3f2gpvinvjne484qpma05m0bk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
